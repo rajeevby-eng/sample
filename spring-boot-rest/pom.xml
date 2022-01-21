@@ -20,7 +20,7 @@
     <modelmapper.version>2.3.5</modelmapper.version>
     <spring-boot.version>2.0.3.RELEASE</spring-boot.version>
     <spring.version>5.0.7.RELEASE</spring.version>
-    <h2d.version>1.4.200</h2d.version>
+    <h2d.version>2.1.210</h2d.version>
   </properties>
 
   <dependencies>
